@@ -1,5 +1,6 @@
 import React from "react"
 import { Link } from "gatsby"
+import "/Users/fabiananguiano/Desktop/AnkerReviews.com/src/styles/global.css"
 
 import { rhythm, scale } from "../utils/typography"
 
@@ -16,6 +17,8 @@ class Layout extends React.Component {
             ...scale(1.5),
             marginBottom: rhythm(1.5),
             marginTop: 0,
+            
+            
           }}
         >
           <Link
