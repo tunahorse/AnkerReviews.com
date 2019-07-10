@@ -18,7 +18,7 @@ class Layout extends React.Component {
             marginBottom: rhythm(1.5),
             marginTop: 0,
             
-            
+  
           }}
         >
           <Link
@@ -64,7 +64,7 @@ class Layout extends React.Component {
         }}
       >
         <header>{header}</header>
-        <main>{children}</main>
+         <main>{children}</main>
         <footer>
           © {new Date().getFullYear()}, Built with
           {` `}

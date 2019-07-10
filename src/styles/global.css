@@ -1,9 +1,32 @@
-html {
-  background-color: white;
-}
+
 
 h1:after{
     content:' ';
     display:block;
     border:2px solid black;
 }
+
+
+a{
+  color: black;
+}
+
+
+body {
+  --mega-border-width: 15px;
+  border-width: var(--mega-border-width);
+  border-style: solid;
+ 
+}
+
+/* header */
+header {
+  display: center;
+  justify-content: space-between;
+}
+@media (max-width: 375px) {
+  header {
+    display: block;
+  }
+}
+
