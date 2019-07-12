@@ -1,6 +1,10 @@
 ---
 title: Wireless Earbuds, Anker Soundcore Liberty Neo Review
 date: "2019-07-01T22:12:03.284Z"
+Image: "./DSC_0245-2.jpg"
+
+
+
 ---
 
 This is  test hello
@@ -18,4 +22,4 @@ Oh, and here's a great quote from this Wikipedia on
 > salted duck eggs have a briny aroma, a gelatin-like egg white and a
 > firm-textured, round yolk that is bright orange-red in color.
 
-![Chinese Salty Egg](./salty_egg.jpg)
+![Anker](./DSC_0245-2.jpg)
