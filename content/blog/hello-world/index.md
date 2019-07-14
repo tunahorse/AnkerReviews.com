@@ -1,6 +1,7 @@
 ---
 title: Wireless Earbuds, Anker Soundcore Liberty Neo Review
 date: "2019-07-01T22:12:03.284Z"
+description: none
 featuredImage: './DSC_0245-2.jpg'
 
 
